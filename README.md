@@ -44,16 +44,6 @@ Think of it as your emotional scrapbook. 🩶
 
 ---
 
-## 📱 Preview
-
-| Calendar View | Note Entry | Mood Card |
-|----------------|-------------|------------|
-| ![calendar](assets/calendar_preview.png) | ![note](assets/note_preview.png) | ![polaroid](assets/polaroid_preview.png) |
-
-*(optional section — add screenshots here!)*
-
----
-
 ## 💡 How to Run
 
 1. Clone this repository:
